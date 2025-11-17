@@ -59,3 +59,5 @@ tags: YOUR_DOCKERHUB_USERNAME/YOUR_IMAGE_NAME:latest
 ## 5. Docker Hub
 
 Once CI passes, your image will be available on Docker Hub under the repo name you configure in the workflow.
+https://hub.docker.com/r/youssefyak11/module11calc
+
