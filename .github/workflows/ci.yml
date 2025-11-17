@@ -58,4 +58,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: YOUR_DOCKERHUB_USERNAME/YOUR_IMAGE_NAME:latest
+          tags: youssefyak11/module11calc:latest
